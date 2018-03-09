@@ -4,9 +4,6 @@
   "version": "0.3.0",
   "description": "LeadroyaL's test module!",
   "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "lead233:toggle"
-  },
   "repository": "https://github.com/leadroyal/lead233",
   "license": "MIT",
   "engines": {
