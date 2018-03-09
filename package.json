@@ -1,7 +1,7 @@
 {
   "name": "lead233",
   "main": "./lib/lead233",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "LeadroyaL's test module!",
   "keywords": [],
   "activationCommands": {
